@@ -28,5 +28,7 @@ httpServer.listen(PORT, () => {
     console.log('listening on port 4000')
 })
 
+console.log('Hola fede')
+
 // http-server -o  para abrir los build de react o angular
 
